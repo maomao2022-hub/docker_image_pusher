@@ -7,3 +7,4 @@ xhofe/alist:latest
 mysql
 alturismo/xteve
 jellyfin/jellyfin
+udpxy
