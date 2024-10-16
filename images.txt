@@ -7,5 +7,3 @@ xhofe/alist:latest
 mysql
 alturismo/xteve
 jellyfin/jellyfin
-udpxy
-rozhuk-im/msd_lite
