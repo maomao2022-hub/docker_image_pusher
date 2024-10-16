@@ -7,3 +7,4 @@ xhofe/alist:latest
 xteve
 tinyserver/msd_lite
 jellyfin
+mysql
